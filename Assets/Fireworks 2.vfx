@@ -21,7 +21,7 @@ MonoBehaviour:
     x: 699
     y: -133
     width: 1461
-    height: 2447
+    height: 2563
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -62,19 +62,6 @@ MonoBehaviour:
       m_SerializableObject: 100000
     min: 0
     max: 100000
-    descendantCount: 0
-  - name: New bool
-    path: New bool
-    tooltip: 
-    sheetType: m_Bool
-    realType: Boolean
-    defaultValue:
-      m_Type:
-        m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
-          PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: True
-    min: -Infinity
-    max: Infinity
     descendantCount: 0
   m_GraphVersion: 4
   m_saved: 1
